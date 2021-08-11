@@ -2,5 +2,4 @@
 
 
 echo "WELCOME TO GIT HUB STATION"
-echo "Greeting from remote
-"
+echo "Greeting from remote"
